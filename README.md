@@ -1,2 +1,3 @@
-# MM-Image-Denoising-Paper
- Senior comps Dec 2023
+# Paper accompanying Multimodal Image Denoising project
+
+ [Click here](https://github.com/zerlinazl/Multimodal_Image_Denoising) for project code and data.
